@@ -1,6 +1,6 @@
 <h2 align=center> <b>My-program-in-python-to-make-a-employee-table-which-give-your-salary-in-year-with-tax</b></h2>
 
-<p> For better understanading check the **_Source Code_**
+For better understanading check the **_Source Code_**
 
 ```
 Name=input("Enter the name:")
